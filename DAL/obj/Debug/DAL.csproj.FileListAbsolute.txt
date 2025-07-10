@@ -1,0 +1,9 @@
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\DAL\bin\Debug\DAL.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\DAL\bin\Debug\DAL.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\DAL\bin\Debug\Domain.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\DAL\bin\Debug\Domain.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\DAL\obj\Debug\DAL.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\DAL\obj\Debug\DAL.pdb
