@@ -20,7 +20,9 @@ Cómo ejecutar
 
 Ejemplo de salida esperada
 ```plaintext
-Se ha suscripto un observador: Observador Juan
-Se ha suscripto un observador: Observador Carlos
+El sujeto Juan suscripto al observador
+El sujeto Juan desuscripto al observador
+El sujeto Juan suscripto al observador
+El sujeto Carlos suscripto al observador 
 Soy Juan recibiendo notificacion estado bateria: 44%
 Soy Carlos recibiendo notificacion estado bateria: 44%
