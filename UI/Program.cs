@@ -16,14 +16,14 @@ namespace UI
         static void Main(string[] args)
         {
             Usuario us1 = new Usuario();
-            us1.NombreUsuario = "juan";
+            us1.NombreUsuario = "Juan";
+            Usuario us2 = new Usuario();
+            us2.NombreUsuario = "Carlos";
 
             UsuarioService serviceUsuario = new UsuarioService();
             serviceUsuario.Add(us1);
 
             Bateria bat1 = new Bateria();
-            bat1.NombreBateria = "bateria notebook";
-            bat1.EstadoBateria = 32;
 
             BateriaService serviceBateria = new BateriaService();
             serviceBateria.Add(bat1);
@@ -32,6 +32,7 @@ namespace UI
             servicioSuscripcion.Suscribir(us1);
             servicioSuscripcion.Desuscribir(us1);
             servicioSuscripcion.Suscribir(us1);
+            servicioSuscripcion.Suscribir(us2);
 
             serviceBateria.Update(new Bateria("bateria notebook", 45));
 

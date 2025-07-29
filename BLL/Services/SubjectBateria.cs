@@ -30,13 +30,13 @@ namespace BLL.Services
 
         public void Suscribir(Usuario usuario)
         {
-            Console.WriteLine("sujeto suscripto al observador");
+            Console.WriteLine($"El sujeto {usuario.NombreUsuario} suscripto al observador");
             subjectBateriaRepository.Suscribir(usuario);
         }
 
         public void Desuscribir(Usuario usuario)
         {
-            Console.WriteLine("sujeto desuscripto al observador");
+            Console.WriteLine($"El sujeto {usuario.NombreUsuario} desuscripto al observador");
             subjectBateriaRepository.Desuscribir(usuario);
         }
     }

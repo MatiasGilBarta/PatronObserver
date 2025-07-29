@@ -12,3 +12,17 @@ C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron O
 C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\UI\bin\Debug\DAL.dll
 C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\UI\bin\Debug\BLL.pdb
 C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\Patron Observer\UI\bin\Debug\DAL.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\bin\Debug\UI.exe.config
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\bin\Debug\UI.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\bin\Debug\UI.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\bin\Debug\BLL.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\bin\Debug\Domain.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\bin\Debug\DAL.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\bin\Debug\BLL.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\bin\Debug\Domain.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\bin\Debug\DAL.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\obj\Debug\UI.csproj.Up2Date
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\obj\Debug\UI.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronObserver\UI\obj\Debug\UI.pdb

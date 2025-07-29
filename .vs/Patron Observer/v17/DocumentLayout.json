@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{ED6E8CE7-1D61-4653-AFB4-66CFE9908D34}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BEC76B8-1A87-45C0-A504-0461B64C0646}|Domain\\Domain.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BEC76B8-1A87-45C0-A504-0461B64C0646}|Domain\\Domain.csproj|solutionrelative:domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C797592-CDCB-466C-ADD7-DA1BD6268F1A}|BLL\\BLL.csproj|c:\\aplicaciones\\visual studio 2022\\trabajos en visual studio 2022\\repos\\patronobserver\\bll\\services\\subjectbateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C797592-CDCB-466C-ADD7-DA1BD6268F1A}|BLL\\BLL.csproj|solutionrelative:bll\\services\\subjectbateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BEC76B8-1A87-45C0-A504-0461B64C0646}|Domain\\Domain.csproj|c:\\aplicaciones\\visual studio 2022\\trabajos en visual studio 2022\\repos\\patronobserver\\domain\\bateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BEC76B8-1A87-45C0-A504-0461B64C0646}|Domain\\Domain.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\domain\\bateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BEC76B8-1A87-45C0-A504-0461B64C0646}|Domain\\Domain.csproj|solutionrelative:domain\\bateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BEC76B8-1A87-45C0-A504-0461B64C0646}|Domain\\Domain.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\domain\\iobsevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BEC76B8-1A87-45C0-A504-0461B64C0646}|Domain\\Domain.csproj|solutionrelative:domain\\iobsevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEC76B8-1A87-45C0-A504-0461B64C0646}|Domain\\Domain.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEC76B8-1A87-45C0-A504-0461B64C0646}|Domain\\Domain.csproj|solutionrelative:domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27F12B8C-2A3A-4F58-BB24-832A24957CB7}|DAL\\DAL.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\dal\\implementations\\memory\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C797592-CDCB-466C-ADD7-DA1BD6268F1A}|BLL\\BLL.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\bll\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C797592-CDCB-466C-ADD7-DA1BD6268F1A}|BLL\\BLL.csproj|solutionrelative:bll\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C797592-CDCB-466C-ADD7-DA1BD6268F1A}|BLL\\BLL.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\bll\\services\\subjectbateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C797592-CDCB-466C-ADD7-DA1BD6268F1A}|BLL\\BLL.csproj|solutionrelative:bll\\services\\subjectbateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C797592-CDCB-466C-ADD7-DA1BD6268F1A}|BLL\\BLL.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,11 +87,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\BLL\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\UsuarioService.cs",
@@ -104,20 +104,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "SubjectBateria.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\BLL\\Services\\SubjectBateria.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\SubjectBateria.cs",
               "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\BLL\\Services\\SubjectBateria.cs",
               "RelativeToolTip": "BLL\\Services\\SubjectBateria.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwCgAAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwCAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T23:38:55.366Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BateriaService.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\BLL\\Services\\BateriaService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\BateriaService.cs",
@@ -164,21 +165,7 @@
               "RelativeToolTip": "Domain\\Bateria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:34:36.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\Domain\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Usuario.cs",
-              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\Domain\\Usuario.cs",
-              "RelativeToolTip": "Domain\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:27:16.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T14:34:36.946Z"
             },
             {
               "$type": "Document",
@@ -188,7 +175,7 @@
               "RelativeDocumentMoniker": "UI\\Program.cs",
               "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\UI\\Program.cs",
               "RelativeToolTip": "UI\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAABEAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T21:07:28.969Z",
               "EditorCaption": ""
@@ -203,12 +190,23 @@
               "RelativeToolTip": "Domain\\IObsevador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:07:59.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T18:07:59.905Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\Domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Usuario.cs",
+              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\Domain\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:27:16.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\DAL\\Implementations\\Memory\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Implementations\\Memory\\UsuarioRepository.cs",
@@ -220,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronObserver\\DAL\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IGenericRepository.cs",
