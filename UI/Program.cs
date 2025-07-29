@@ -33,7 +33,7 @@ namespace UI
             servicioSuscripcion.Desuscribir(us1);
             servicioSuscripcion.Suscribir(us1);
 
-            serviceBateria.Update(new Bateria("bateria notebook", 44));
+            serviceBateria.Update(new Bateria("bateria notebook", 45));
 
             foreach (var item in serviceBateria.GetAll())
             {
